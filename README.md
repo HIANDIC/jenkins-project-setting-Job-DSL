@@ -8,8 +8,8 @@ NOT: Before build the job which is created by using DSL plugin and groovy script
 
 - Appvove the scripting
 - Therefore we configure the Jenkins Server:
-  . Go to **Manage Jenkins**
-  . Go to **In-process Script Approval**
-  . Then approve the **Script**
+  - Go to **Manage Jenkins**
+  - Go to **In-process Script Approval**
+  - Then approve the **Script**
   
 - Now we can build our Jenkins Job which we created by using **Jenkins DSL** and **Everything as Code** concept.
